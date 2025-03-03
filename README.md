@@ -12,7 +12,7 @@ I’m passionate about AI technology . I love working on data-driven projects, i
 - 🌐 Web Development with AI Integration
 
 ## 💡 Projects 
-I’m looking to collaborate on:
+
 - AI-driven Resume Screening using Power BI 📄✨
 - Predictive Analytics on Socio -income Analysis 📈
 - Machine Learning Model Deployment 🚀
